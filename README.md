@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Dorvil
-- 👀 I am interested in Technology
-- 🌱I am a student in Systems Analysis and Development
+- 👀 Enthusiastically exploring the realms of programming and cybersecurity
+- 🌱 Passionately studying the art of cybersecurity
 
 
 <!---
